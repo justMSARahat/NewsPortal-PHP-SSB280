@@ -1,4 +1,4 @@
-<!-- ::::::::::  HEADER SPLIT START  :::::::: -->
+ <!-- ::::::::::  HEADER SPLIT START  :::::::: -->
 <?php include "inc/header.php"; ?>
 <!-- ::::::::::  HEADER SPLIT END  :::::::: -->
 
